@@ -6,4 +6,3 @@ out/
 .env*
 !.env.example
 
-.cache/
